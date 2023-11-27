@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá, Eu sou o Nicolas! 👋
 
+Seja bem-vindo(a) ao meu perfil!
+
+Sou o Nicolas Rodrigues, tenho 18 anos e sou programador front-end.
 <!--
 **NicolasRAlves/NicolasRAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
