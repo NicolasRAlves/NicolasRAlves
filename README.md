@@ -21,5 +21,5 @@ I'm Nicolas Rodrigues, I'm 18 years old and I'm a front-end programmer.
 
 
 ## Contact
-[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/nicolas-rodrigues-developer)
+[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicolas-rodrigues-developer)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nrodriguesalves05@gmail.com)
