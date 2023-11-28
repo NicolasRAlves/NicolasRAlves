@@ -8,7 +8,7 @@ I'm Nicolas Rodrigues, I'm 18 years old and I'm a front-end programmer.
 <br/>
 
 
-## Technology and Tools
+## Technologies and Tools
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JAVASCRIPT)
