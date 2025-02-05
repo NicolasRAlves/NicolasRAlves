@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
 ## 🚀 Tecnologias & Ferramentas  
 
 ### 💻 Linguagens e Frameworks  
-<p align="center">
+<p >
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
 </p>
 
 ### 🛠️ Outras Ferramentas  
-<p align="center">
+<p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
@@ -35,19 +35,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRAlve&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRAlve&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRAlves&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-### 🔥 Status e Contribuições  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasRAlve&theme=radical" alt="Nicolas Streak Stats"/>
-</div>
-
-### 🏆 Troféus do GitHub  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasRAlve&theme=radical&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
-</div>
 
 ---
 
