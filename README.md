@@ -18,7 +18,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
   <a href="https://www.java.com/pt-BR/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://www.oracle.com/java/technologies/jspt.html"><img src="https://img.shields.io/badge/Java%20JSP-blue?style=for-the-badge&logo=java" alt="JSP"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/></a>
 </p>
 
@@ -28,7 +27,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
   <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse" alt="Eclipse"/></a>
-  <a href="https://fluig.totvs.com/"><img src="https://img.shields.io/badge/TOTVS%20Fluig-0085CA?style=for-the-badge" alt="TOTVS Fluig"/></a>
+  <a href="https://www.totvs.com/fluig/"><img src="https://img.shields.io/badge/TOTVS%20Fluig-0085CA?style=for-the-badge" alt="TOTVS Fluig"/></a>
 </p>
 
 ---
@@ -47,7 +46,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonad
   <a href="https://www.linkedin.com/in/nicolas-rodrigues-developer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nrodriguesalves05@gmail.com">
+  <a href="mailto:dev.nicolasalves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
