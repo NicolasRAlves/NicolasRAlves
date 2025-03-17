@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou o Nicolas Rodrigues!  
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web de 19 anos apaixonado por tecnologia e sempre em busca de novos desafios. Gosto de criar interfaces modernas, funcionais e dinâmicas, trazendo a melhor experiência possível para os usuários.  
+### Bem-vindo ao meu perfil no GitHub! 🚀
+Sou um desenvolvedor full stack de 19 anos apaixonado por tecnologia e inovação. Gosto de transformar ideias em código, criando soluções completas, desde o back-end robusto até interfaces modernas e intuitivas no front-end.
 
-💻 **Desenvolvedor Web | JavaScript, Java & mais**  
+
+💻 **Desenvolvedor Full Stack | JavaScript, Java & mais**  
 🚀 **Experiência com desenvolvimento na plataforma TOTVS Fluig**  
 🎯 **Sempre aprendendo e explorando novas tecnologias**  
 
