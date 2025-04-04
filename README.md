@@ -1,56 +1,43 @@
-# 👋 Olá, eu sou o Nicolas Rodrigues!  
+# 👋 Olá, eu sou o Nicolas Rodrigues!
 
-### Bem-vindo ao meu perfil no GitHub! 🚀
+### Bem-vindo ao meu perfil no GitHub! 🚀  
 Sou um desenvolvedor full stack de 19 anos apaixonado por tecnologia e inovação. Gosto de transformar ideias em código, criando soluções completas, desde o back-end robusto até interfaces modernas e intuitivas no front-end.
-
 
 💻 **Desenvolvedor Full Stack | JavaScript, Java & mais**  
 🚀 **Experiência com desenvolvimento na plataforma TOTVS Fluig**  
-🎯 **Sempre aprendendo e explorando novas tecnologias**  
+🎯 **Sempre aprendendo e explorando novas tecnologias**
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🚀 Tecnologias & Ferramentas
 
 ### 💻 Linguagens e Frameworks  
-<p >
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
-  <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
-  <a href="https://www.java.com/pt-BR/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,spring" alt="Tecnologias de Programação"/>
 </p>
 
 ### 🛠️ Outras Ferramentas  
-<p>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-  <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse" alt="Eclipse"/></a>
-  <a href="https://www.totvs.com/fluig/"><img src="https://img.shields.io/badge/TOTVS%20Fluig-0085CA?style=for-the-badge" alt="TOTVS Fluig"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Outras Ferramentas"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRAlves&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
 ---
 
 ## 📬 Entre em contato  
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-rodrigues-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:dev.nicolasalves@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  📧 <strong style="font-size: 18px;">dev.nicolasalves@gmail.com</strong>  
+</p>
+
+<p align="center">
+  🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/nicolas-rodrigues-developer"><strong>LinkedIn</strong></a>
 </p>
 
 ---
