@@ -13,12 +13,12 @@ Sou um desenvolvedor full stack de 19 anos apaixonado por tecnologia e inovaçã
 
 ### 💻 Linguagens e Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,spring" alt="Tecnologias de Programação"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,java,spring,mysql" alt="Tecnologias de Programação"/>
 </p>
 
 ### 🛠️ Outras Ferramentas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Outras Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,postman,vercel" alt="Outras Ferramentas"/>
 </p>
 
 ---
